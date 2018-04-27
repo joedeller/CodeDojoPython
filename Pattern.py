@@ -1,8 +1,3 @@
-# Joe Deller May 2017
-# V 1.0
-# Using the Python turtle to draw various shapes
-# Try out the different methods to see how they differ
-
 import turtle
 import time
 import math
